@@ -1,2 +1,2 @@
-# NLP_Tweet_Analysis
+# NLP Tweet Analysis
 This notebook aims to train a Machine Learning Classifier, to determine whether a tweet is racist or sexist. This is achieved by pre-processing the data using standard tool in NLP, visualising the frequency of words using word clouds and subsequently training a Logistic Regression Model. In particular, 4 different input datasets were compared (Stemmed/Lemmatized and Bag-of-words/TF-IDF) and it was shown that stemmed bag-of-words has the highest f1 score in a validation set
